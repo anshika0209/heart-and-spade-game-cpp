@@ -1,0 +1,1 @@
+Game No        Score          Difficulty     Total Hearts   Hearts Found   Total Turns    
